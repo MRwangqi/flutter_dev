@@ -1,8 +1,5 @@
-# codelang
+# flutterDemo
 
-A new Flutter application.
+flutter实战项目
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- [flutter之从零开始搭建（一）之 BottomNavigationBar](https://juejin.im/post/5b3ee0b66fb9a04f8a21678c)
